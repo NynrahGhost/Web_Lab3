@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "category": "typicode",
+      "shortDesc": "typicode",
+      "longDesc": "typicode",
+      "createDate": "05-04-2020"
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "category": "typicode",
+      "shortDesc": "typicode",
+      "longDesc": "typicode",
+      "createDate": "05-04-2020"
+    }
+  ],
+  "categories": [
+    "biscuits",
+    {
+      "name": "biscuits"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}

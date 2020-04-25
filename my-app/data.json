@@ -1,0 +1,43 @@
+{
+  "recipes": [
+    {
+      "id": 0,
+      "name": "Pancakes",
+      "category": "typicode",
+	  "shortDesc": "Sweet pancakes from bananas and some other fruits.",
+	  "longDesc": "do 1, do 2, do 3",
+	  "createDate": 05-04-2020
+    },
+    {
+      "id": 1,
+      "name": "json-server",
+      "category": "typicode",
+	  "shortDesc": "typicode",
+	  "longDesc": "typicode",
+	  "createDate": 05-04-2020
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "category": "typicode",
+	  "shortDesc": "typicode",
+	  "longDesc": "typicode",
+	  "createDate": 05-04-2020
+    },
+	{
+      "id": 3,
+      "name": "json-server",
+      "category": "typicode",
+	  "shortDesc": "typicode",
+	  "longDesc": "typicode",
+	  "createDate": 05-04-2020
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}

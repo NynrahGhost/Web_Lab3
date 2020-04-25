@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": 0,
+      "name": "Pancakes",
+      "category": "typicode",
+      "shortDesc": "Sweet pancakes from bananas and some other fruits.",
+      "longDesc": "do 1, do 2, do 3",
+      "createDate": "05-04-2020"
+    },
+    {
+      "id": 1,
+      "name": "json-server",
+      "category": "typicode",
+      "shortDesc": "typicode awdawda wdawdawda wsdawdawwawd adwdaw awd awd awd awdawd wwwwwwwwwwa aaaaaaaaa aaaaaaaaaaaaa",
+      "longDesc": "typicode",
+      "createDate": "05-04-2020"
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "category": "typicode",
+      "shortDesc": "typicode",
+      "longDesc": "typicode",
+      "createDate": "05-04-2020"
+    },
+    {
+      "id": 5,
+      "name": "awdAWD",
+      "category": "cakes",
+      "shortDesc": "12313",
+      "longDesc": "12313",
+      "createDate": "25-4-2020"
+    },
+    {
+      "id": 6,
+      "name": "12412",
+      "category": "cakes",
+      "shortDesc": "1241241",
+      "longDesc": "123124124124",
+      "createDate": "25-4-2020"
+    },
+    {
+      "id": 7,
+      "name": "123",
+      "category": "cakes",
+      "shortDesc": "123",
+      "longDesc": "123",
+      "createDate": "25-4-2020"
+    }
+  ],
+  "categories": [
+    "cakes",
+    "soups"
+  ]
+}
